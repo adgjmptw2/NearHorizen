@@ -1,0 +1,5 @@
+<Project>
+  <PropertyGroup>
+    <LC_PATH Condition="'$(LC_PATH)' == ''">$(MSBuildThisFileDirectory)assem</LC_PATH>
+  </PropertyGroup>
+</Project>

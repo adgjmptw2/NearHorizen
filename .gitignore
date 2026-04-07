@@ -1,0 +1,8 @@
+bin/
+obj/
+.vs/
+*.user
+*.suo
+assem/*.dll
+assem/*.dll.md5
+NearHorizon.dll
