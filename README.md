@@ -15,3 +15,6 @@ Extra: FancyLamp + LungApparatus **light shadows off**
 **Caution**
 - Another mod touching the same camera may win depending on load order.
 - Some mod moons need `FarClipPlane` more than 400.
+
+**Plan**
+- Log Optimization
